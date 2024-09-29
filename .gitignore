@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+*.txt
+*.csv
+*.mp4
+*.gif
+*.json
